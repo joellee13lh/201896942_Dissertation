@@ -17,8 +17,7 @@ This repository contains the complete analytical pipeline for examining diabetes
 │   │   ├── WestYorkshire_Diabetes_Prescriptions_by_LSOA_Monthly.csv
 │   │   └── diabetes_its_analysis_data_lsoa.csv
 │   └── results/
-│       ├── its_model_summary.csv
-│       └── monthly_summary_for_its.csv
+│       └── its_model_summary.csv
 ├── code/
 │   ├── 01_data_collection.ipynb         # OpenPrescribing API data collection
 │   ├── 02_spatial_allocation.ipynb      # GP practice to LSOA allocation
