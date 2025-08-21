@@ -85,9 +85,9 @@ This repository contains the complete analytical pipeline for examining diabetes
 - **Intervention Point**: July 2022 (ICS implementation)
 - **Time Variables**: Continuous time points and intervention indicators
 - **Core Indicators**:
-  - **IDR (Insulin Dependency Ratio)**: Total insulin items / Total diabetes items × 100
-  - **ATU (Advanced Therapy Utilization)**: Other antidiabetic drugs / Total oral medications × 100
-  - **HMR (Hypoglycemia Risk Management Ratio)**: Hypoglycemia treatments / Total diabetes items × 100
+  - **IDR (Insulin Dependency Ratio)**: (Short-acting insulin + Intermediate/long-acting insulin prescriptions) / Total diabetes prescriptions × 100
+  - **ATU (Advanced Therapy Utilization)**: Other antidiabetic drugs / (Sulfonylureas + Biguanides + Other antidiabetic drugs) × 100
+  - **HMR (Hypoglycemia Risk Management Ratio)**: Hypoglycemia treatment prescriptions / Total diabetes prescriptions × 100
 
 **Quality Assurance**:
 - Missing value assessment and time series completeness verification
