@@ -63,7 +63,7 @@ This repository contains the complete analytical pipeline for examining diabetes
 - **Method**: Proportional allocation based on patient registration distributions
 - **Temporal Accuracy**: Year-specific patient registration data (2020-2025)
 - **Geographic Scope**: 1,404 LSOAs across West Yorkshire
-- **Validation**: 99.77% successful data linkage with conservation checks
+- **Validation**: 97.58% successful data linkage with conservation checks
 
 **Allocation Process**:
 1. Load annual GP patient registration data by LSOA residence
