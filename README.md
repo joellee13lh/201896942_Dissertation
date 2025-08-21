@@ -27,9 +27,6 @@ This repository contains the complete analytical pipeline for examining diabetes
 ├── plots/
 │   ├── plots_diabetes/                  # IMD inequality visualizations
 │   └── plots_its/                      # ITS analysis results
-├── docs/
-│   ├── data_dictionary.txt
-│   └── methodology_notes.md
 └── README.md
 ```
 
