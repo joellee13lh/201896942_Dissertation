@@ -233,7 +233,6 @@ patchwork>=1.1.0
 
 ### Analysis Results
 - **its_model_summary.csv**: Statistical model coefficients and significance tests
-- **monthly_summary_for_its.csv**: Aggregated temporal trends
 
 ### Visualizations
 - **plots_diabetes/**: IMD inequality analysis figures
