@@ -1,4 +1,4 @@
-# Diabetes Prescribing Inequalities and Integrated Care System Impact in West Yorkshire
+# From Deprivation to Prescription: Examining Diabetes Medication Inequalities and Integrated Care System Impact in West Yorkshire, England
 
 ## Project Overview
 
